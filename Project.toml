@@ -1,7 +1,7 @@
 name = "AbstractCircuitComponentRounding"
 uuid = "f69727b9-8a39-40e5-8e7a-0243a3421727"
 authors = ["KronosTheLate"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1.6"
